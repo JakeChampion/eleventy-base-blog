@@ -1,6 +1,6 @@
 {
 	"type": "module",
 	"dependencies": {
-		"@netlify/plugin-csp-nonce": "github:netlify/plugin-csp-nonce#a3b0e0d6e92f2a783f80c6f6aa379125cad0ae78"
+		"@netlify/plugin-csp-nonce": "github:netlify/plugin-csp-nonce#a7d7f94482729a7f86ebf1d1060b06feb2493af1"
 	}
 }
