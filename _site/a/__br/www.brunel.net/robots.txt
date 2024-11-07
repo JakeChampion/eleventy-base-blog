@@ -1,0 +1,5 @@
+User-agent: JoobleBot
+Disallow: /
+User-agent: *
+Allow: /
+Sitemap: https://www.brunel.net/sitemap.xml
